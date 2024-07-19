@@ -1,12 +1,5 @@
 'use strict';
 
-// I will admit having used some ChatGPT to ask for some help, 
-// and I looked up tutorials on other things such as expense trackers to see how they 
-// create elements using JavaScript as I haven't actually done that before. With this project I learned a lot, 
-// such as event listeners, create elements, assigning attributes to elements so I can manipulate them in CSS, 
-// removing elements. I did copy the button and input form styling completely, 
-// as I wanted it to look nice but wanted to focus on learning the JavaScript for now. I need to study more lol.
-
 const todoForm = document.getElementById('todo-form');
 const todoInput = document.getElementById('todo-input');
 const todoList = document.getElementById('todo-list');
